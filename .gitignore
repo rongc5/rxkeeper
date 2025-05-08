@@ -1,13 +1,13 @@
-# 测试目录
+# Test directory
 test_rxkeeper/
 
-# 日志文件
+# Log files
 *.log
 
-# 操作系统文件
+# OS files
 .DS_Store
 Thumbs.db
 
-# 临时文件
+# Temp files
 *.tmp
-*~ 
+*~

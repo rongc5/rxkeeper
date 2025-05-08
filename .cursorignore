@@ -1,5 +1,5 @@
-# 测试目录
+# Test directory
 test_rxkeeper/
 
-# 日志文件
-*.log 
+# Log files
+*.log
